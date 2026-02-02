@@ -3,4 +3,4 @@ It solves discord hcaptcha ( captcha ), without third-party-services like 2captc
 
 it solves image based or text based hcaptchas, and it's very fast, you can solve it for scraping, or use it for server joiners
 
-@.bas on discord, for more information
+@arrestants on discord, for more information
